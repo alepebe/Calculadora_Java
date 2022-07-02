@@ -3,7 +3,7 @@
 ### Resto 1 y 2 Mision TIC-2022
 
 
-Calculadora básica hecha en Java con <strong>JOpanel</strong>
+Calculadora básica hecha en Java con <strong>JOptionPane</strong>
 
 ![menu principal](images/menu_principal.png)
 
