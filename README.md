@@ -1,6 +1,6 @@
 # ✅ Calculadora_Java
 
-### Resto 1 y 2 Mision TIC-2022
+### Resto 1 y 2 Misión TIC-2022
 
 
 Calculadora básica hecha en Java con <strong>JOptionPane</strong>
